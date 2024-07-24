@@ -43,7 +43,7 @@ Currently, the program uses the following criteria to evaluate companies:
 To install QuantInvest, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/your-username/QuantInvest.git
+git clone https://github.com/Tamachiii/QuantInvest.git
 cd QuantInvest
 pip install -r requirements.txt
 ```
