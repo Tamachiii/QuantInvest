@@ -75,5 +75,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - **Tamachiii** - *Product Manager* - [Tamachiii](https://github.com/Tamachiii)
 - **Gabin Munoz** - *Full-stack Developer* - [Gabin Munoz](https://github.com/Munozmu)
 - **Ugo Barbier** - *ETF Analyst* - [Ugo Barbier](https://github.com/ugobarbier)
-- **Gabou** - *Innovator* - [Gabou]()
+- **Gabou** - *Innovator* - [Gabou](https://github.com/GabouEsport)
 - **Herque Maxime** - *Developer* - [Herque Maxime](https://github.com/R3tr0oO)
