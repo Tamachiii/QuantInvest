@@ -38,6 +38,27 @@ Currently, the program uses the following criteria to evaluate companies:
 - Sorting and ranking of companies based on their scores.
 - User interface to visualize results.
 
+## Directory Structure
+
+```
+.
+├── app/
+│   └── quantinvest.py
+├── data/
+│   ├── tickers.csv
+│   └── dist/
+│       └── res.csv
+├── test/
+│   ├── __init__.py
+│   └── test.py
+├── utils/
+│   ├── __init__.py
+│   └── utils.py
+├── main.py
+├── requirements.py
+└── README.md
+```
+
 ## Installation
 
 To install QuantInvest, clone this repository and install the necessary dependencies:
